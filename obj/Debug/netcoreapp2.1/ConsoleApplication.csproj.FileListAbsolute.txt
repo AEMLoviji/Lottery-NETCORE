@@ -1,0 +1,11 @@
+/home/elvin/repos/ConsoleApplication/bin/Debug/netcoreapp2.1/ConsoleApplication.deps.json
+/home/elvin/repos/ConsoleApplication/bin/Debug/netcoreapp2.1/ConsoleApplication.runtimeconfig.json
+/home/elvin/repos/ConsoleApplication/bin/Debug/netcoreapp2.1/ConsoleApplication.runtimeconfig.dev.json
+/home/elvin/repos/ConsoleApplication/bin/Debug/netcoreapp2.1/ConsoleApplication.dll
+/home/elvin/repos/ConsoleApplication/bin/Debug/netcoreapp2.1/ConsoleApplication.pdb
+/home/elvin/repos/ConsoleApplication/obj/Debug/netcoreapp2.1/ConsoleApplication.csprojAssemblyReference.cache
+/home/elvin/repos/ConsoleApplication/obj/Debug/netcoreapp2.1/ConsoleApplication.csproj.CoreCompileInputs.cache
+/home/elvin/repos/ConsoleApplication/obj/Debug/netcoreapp2.1/ConsoleApplication.AssemblyInfoInputs.cache
+/home/elvin/repos/ConsoleApplication/obj/Debug/netcoreapp2.1/ConsoleApplication.AssemblyInfo.cs
+/home/elvin/repos/ConsoleApplication/obj/Debug/netcoreapp2.1/ConsoleApplication.dll
+/home/elvin/repos/ConsoleApplication/obj/Debug/netcoreapp2.1/ConsoleApplication.pdb
